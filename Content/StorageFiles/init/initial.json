@@ -1,0 +1,33 @@
+{
+	"general":
+	{
+		"music": true,
+		"effects": true,
+		"language": "en",
+		"page": "Page1"
+	},
+	"levels":
+	[
+		{"name":"01","orbs":0,"points":0},
+		{"name":"02","orbs":0,"points":0},
+		{"name":"03","orbs":0,"points":0},
+		{"name":"04","orbs":0,"points":0},
+		{"name":"05","orbs":0,"points":0},
+		{"name":"06","orbs":0,"points":0},
+		{"name":"07","orbs":0,"points":0},
+		{"name":"08","orbs":0,"points":0},
+		{"name":"09","orbs":0,"points":0},
+		{"name":"10","orbs":0,"points":0},
+		{"name":"11","orbs":0,"points":0},
+		{"name":"12","orbs":0,"points":0},
+		{"name":"13","orbs":0,"points":0},
+		{"name":"14","orbs":0,"points":0},
+		{"name":"15","orbs":0,"points":0},
+		{"name":"16","orbs":0,"points":0},
+		{"name":"17","orbs":0,"points":0},
+		{"name":"18","orbs":0,"points":0},
+		{"name":"19","orbs":0,"points":0},
+		{"name":"20N","orbs":0,"points":0},
+		{"name":"21","orbs":0,"points":0}
+	]
+}

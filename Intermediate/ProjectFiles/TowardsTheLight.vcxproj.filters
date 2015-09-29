@@ -1,0 +1,268 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\TowardsTheLight.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{14306517-57C0-4072-AAF6-D35DA2CA7028}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\TowardsTheLight.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\TowardsTheLightEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{45AE47B9-0F07-4167-BB5E-CED78BFA7922}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultInput.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Config\Localization">
+			<UniqueIdentifier>{66F3C7E4-49E1-438D-93F5-23143D7B10CC}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\Localization\TowardsTheLight.ini">
+			<Filter>Config\Localization</Filter>
+		</None >
+		<Filter Include="Source\TowardsTheLight">
+			<UniqueIdentifier>{F8CC4050-A628-4D38-8DEB-4417DDF0797B}</UniqueIdentifier>
+		</Filter>
+		<ClCompile Include="..\..\Source\TowardsTheLight\Altar.cpp">
+			<Filter>Source\TowardsTheLight</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\TowardsTheLight\Altar.h">
+			<Filter>Source\TowardsTheLight</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\TowardsTheLight\CheckPoint.cpp">
+			<Filter>Source\TowardsTheLight</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\TowardsTheLight\CheckPoint.h">
+			<Filter>Source\TowardsTheLight</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\TowardsTheLight\EntranceLight.cpp">
+			<Filter>Source\TowardsTheLight</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\TowardsTheLight\EntranceLight.h">
+			<Filter>Source\TowardsTheLight</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\TowardsTheLight\GameDataManager.cpp">
+			<Filter>Source\TowardsTheLight</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\TowardsTheLight\GameDataManager.h">
+			<Filter>Source\TowardsTheLight</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\TowardsTheLight\InfoGameInstance.cpp">
+			<Filter>Source\TowardsTheLight</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\TowardsTheLight\InfoGameInstance.h">
+			<Filter>Source\TowardsTheLight</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\TowardsTheLight\IntermittentManager.cpp">
+			<Filter>Source\TowardsTheLight</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\TowardsTheLight\IntermittentManager.h">
+			<Filter>Source\TowardsTheLight</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\TowardsTheLight\IntermittentPlatform.cpp">
+			<Filter>Source\TowardsTheLight</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\TowardsTheLight\IntermittentPlatform.h">
+			<Filter>Source\TowardsTheLight</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\TowardsTheLight\KeysTappable.cpp">
+			<Filter>Source\TowardsTheLight</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\TowardsTheLight\KeysTappable.h">
+			<Filter>Source\TowardsTheLight</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\TowardsTheLight\LocalizationManager.cpp">
+			<Filter>Source\TowardsTheLight</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\TowardsTheLight\LocalizationManager.h">
+			<Filter>Source\TowardsTheLight</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\TowardsTheLight\Mechanism.cpp">
+			<Filter>Source\TowardsTheLight</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\TowardsTheLight\Mechanism.h">
+			<Filter>Source\TowardsTheLight</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\TowardsTheLight\MenuGameMode.cpp">
+			<Filter>Source\TowardsTheLight</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\TowardsTheLight\MenuGameMode.h">
+			<Filter>Source\TowardsTheLight</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\TowardsTheLight\MobileEnemy.cpp">
+			<Filter>Source\TowardsTheLight</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\TowardsTheLight\MobileEnemy.h">
+			<Filter>Source\TowardsTheLight</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\TowardsTheLight\MobilePlatform.cpp">
+			<Filter>Source\TowardsTheLight</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\TowardsTheLight\MobilePlatform.h">
+			<Filter>Source\TowardsTheLight</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\TowardsTheLight\MyGameMode.cpp">
+			<Filter>Source\TowardsTheLight</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\TowardsTheLight\MyGameMode.h">
+			<Filter>Source\TowardsTheLight</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\TowardsTheLight\NoPawn.cpp">
+			<Filter>Source\TowardsTheLight</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\TowardsTheLight\NoPawn.h">
+			<Filter>Source\TowardsTheLight</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\TowardsTheLight\OviCameraActor.cpp">
+			<Filter>Source\TowardsTheLight</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\TowardsTheLight\OviCameraActor.h">
+			<Filter>Source\TowardsTheLight</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\TowardsTheLight\OviPlayerController.cpp">
+			<Filter>Source\TowardsTheLight</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\TowardsTheLight\OviPlayerController.h">
+			<Filter>Source\TowardsTheLight</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\TowardsTheLight\PickableItem.cpp">
+			<Filter>Source\TowardsTheLight</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\TowardsTheLight\PickableItem.h">
+			<Filter>Source\TowardsTheLight</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\TowardsTheLight\PlayerOvi.cpp">
+			<Filter>Source\TowardsTheLight</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\TowardsTheLight\PlayerOvi.h">
+			<Filter>Source\TowardsTheLight</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\TowardsTheLight\Portal.cpp">
+			<Filter>Source\TowardsTheLight</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\TowardsTheLight\Portal.h">
+			<Filter>Source\TowardsTheLight</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\TowardsTheLight\SoundManager.cpp">
+			<Filter>Source\TowardsTheLight</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\TowardsTheLight\SoundManager.h">
+			<Filter>Source\TowardsTheLight</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\TowardsTheLight\StaticEnemy.cpp">
+			<Filter>Source\TowardsTheLight</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\TowardsTheLight\StaticEnemy.h">
+			<Filter>Source\TowardsTheLight</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\TowardsTheLight\StaticPlatform.cpp">
+			<Filter>Source\TowardsTheLight</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\TowardsTheLight\StaticPlatform.h">
+			<Filter>Source\TowardsTheLight</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\TowardsTheLight\Stick.cpp">
+			<Filter>Source\TowardsTheLight</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\TowardsTheLight\Stick.h">
+			<Filter>Source\TowardsTheLight</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\TowardsTheLight\Tappable.cpp">
+			<Filter>Source\TowardsTheLight</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\TowardsTheLight\Tappable.h">
+			<Filter>Source\TowardsTheLight</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\TowardsTheLight\TimeManager.cpp">
+			<Filter>Source\TowardsTheLight</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\TowardsTheLight\TimeManager.h">
+			<Filter>Source\TowardsTheLight</Filter>
+		</ClInclude >
+		<None Include="..\..\Source\TowardsTheLight\TowardsTheLight.Build.cs">
+			<Filter>Source\TowardsTheLight</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\TowardsTheLight\TowardsTheLight.cpp">
+			<Filter>Source\TowardsTheLight</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\TowardsTheLight\TowardsTheLight.h">
+			<Filter>Source\TowardsTheLight</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\TowardsTheLight\TowardsTheLightGameMode.cpp">
+			<Filter>Source\TowardsTheLight</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\TowardsTheLight\TowardsTheLightGameMode.h">
+			<Filter>Source\TowardsTheLight</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\TowardsTheLight\Tower.cpp">
+			<Filter>Source\TowardsTheLight</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\TowardsTheLight\Tower.h">
+			<Filter>Source\TowardsTheLight</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\TowardsTheLight\Tutorial.cpp">
+			<Filter>Source\TowardsTheLight</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\TowardsTheLight\Tutorial.h">
+			<Filter>Source\TowardsTheLight</Filter>
+		</ClInclude >
+		<Filter Include="Source\TowardsTheLight\rapidjson">
+			<UniqueIdentifier>{B4221C7E-AD63-4A0F-B933-8D3B4786B525}</UniqueIdentifier>
+		</Filter>
+		<ClInclude Include="..\..\Source\TowardsTheLight\rapidjson\document.h">
+			<Filter>Source\TowardsTheLight\rapidjson</Filter>
+		</ClInclude >
+		<ClInclude Include="..\..\Source\TowardsTheLight\rapidjson\filestream.h">
+			<Filter>Source\TowardsTheLight\rapidjson</Filter>
+		</ClInclude >
+		<ClInclude Include="..\..\Source\TowardsTheLight\rapidjson\prettywriter.h">
+			<Filter>Source\TowardsTheLight\rapidjson</Filter>
+		</ClInclude >
+		<ClInclude Include="..\..\Source\TowardsTheLight\rapidjson\rapidjson.h">
+			<Filter>Source\TowardsTheLight\rapidjson</Filter>
+		</ClInclude >
+		<ClInclude Include="..\..\Source\TowardsTheLight\rapidjson\reader.h">
+			<Filter>Source\TowardsTheLight\rapidjson</Filter>
+		</ClInclude >
+		<ClInclude Include="..\..\Source\TowardsTheLight\rapidjson\stringbuffer.h">
+			<Filter>Source\TowardsTheLight\rapidjson</Filter>
+		</ClInclude >
+		<ClInclude Include="..\..\Source\TowardsTheLight\rapidjson\writer.h">
+			<Filter>Source\TowardsTheLight\rapidjson</Filter>
+		</ClInclude >
+		<Filter Include="Source\TowardsTheLight\rapidjson\internal">
+			<UniqueIdentifier>{C439F32F-3DDC-48C3-8A98-D6760BF26295}</UniqueIdentifier>
+		</Filter>
+		<ClInclude Include="..\..\Source\TowardsTheLight\rapidjson\internal\pow10.h">
+			<Filter>Source\TowardsTheLight\rapidjson\internal</Filter>
+		</ClInclude >
+		<ClInclude Include="..\..\Source\TowardsTheLight\rapidjson\internal\stack.h">
+			<Filter>Source\TowardsTheLight\rapidjson\internal</Filter>
+		</ClInclude >
+		<ClInclude Include="..\..\Source\TowardsTheLight\rapidjson\internal\strfunc.h">
+			<Filter>Source\TowardsTheLight\rapidjson\internal</Filter>
+		</ClInclude >
+		<Filter Include="Source\TowardsTheLight\Resources">
+			<UniqueIdentifier>{F15F517D-B5DA-4D97-A891-E35AFB6BAED0}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="Source\TowardsTheLight\Resources\Windows">
+			<UniqueIdentifier>{94E8FF97-2852-4B64-AFC5-345C5D310D04}</UniqueIdentifier>
+		</Filter>
+		<ResourceCompile Include="..\..\Source\TowardsTheLight\Resources\Windows\TowardsTheLight.rc">
+			<Filter>Source\TowardsTheLight\Resources\Windows</Filter>
+		</ResourceCompile >
+	</ItemGroup>
+</Project>
