@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
-VisualStudioVersion = 12.0.31101.0
+VisualStudioVersion = 12.0.30723.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Engine", "Engine", "{ACE6C91C-9C5D-4B8E-8114-12ADB6B8FFD7}"
 EndProject
@@ -50,32 +50,27 @@ Global
 		{DF578E7C-A18B-4B26-A912-260A1E704862}.Shipping|Win32.ActiveCfg = BuiltWithUnrealBuildTool|Win32
 		{DF578E7C-A18B-4B26-A912-260A1E704862}.Shipping|Win32.Build.0 = BuiltWithUnrealBuildTool|Win32
 		{DF578E7C-A18B-4B26-A912-260A1E704862}.Shipping|Win64.ActiveCfg = BuiltWithUnrealBuildTool|Win32
-		{81022FA6-1191-4965-90DB-5E8EC2007BCB}.DebugGame Editor|Android.ActiveCfg = DebugGame_Editor|Tegra-Android
-		{81022FA6-1191-4965-90DB-5E8EC2007BCB}.DebugGame Editor|Android.Build.0 = DebugGame_Editor|Tegra-Android
+		{81022FA6-1191-4965-90DB-5E8EC2007BCB}.DebugGame Editor|Android.ActiveCfg = DebugGame_Game|Win32
 		{81022FA6-1191-4965-90DB-5E8EC2007BCB}.DebugGame Editor|Win32.ActiveCfg = DebugGame_Editor|Win32
 		{81022FA6-1191-4965-90DB-5E8EC2007BCB}.DebugGame Editor|Win32.Build.0 = DebugGame_Editor|Win32
 		{81022FA6-1191-4965-90DB-5E8EC2007BCB}.DebugGame Editor|Win64.ActiveCfg = DebugGame_Editor|x64
 		{81022FA6-1191-4965-90DB-5E8EC2007BCB}.DebugGame Editor|Win64.Build.0 = DebugGame_Editor|x64
-		{81022FA6-1191-4965-90DB-5E8EC2007BCB}.DebugGame|Android.ActiveCfg = DebugGame_Game|Tegra-Android
-		{81022FA6-1191-4965-90DB-5E8EC2007BCB}.DebugGame|Android.Build.0 = DebugGame_Game|Tegra-Android
+		{81022FA6-1191-4965-90DB-5E8EC2007BCB}.DebugGame|Android.ActiveCfg = DebugGame_Game|Win32
 		{81022FA6-1191-4965-90DB-5E8EC2007BCB}.DebugGame|Win32.ActiveCfg = DebugGame_Game|Win32
 		{81022FA6-1191-4965-90DB-5E8EC2007BCB}.DebugGame|Win32.Build.0 = DebugGame_Game|Win32
 		{81022FA6-1191-4965-90DB-5E8EC2007BCB}.DebugGame|Win64.ActiveCfg = DebugGame_Game|x64
 		{81022FA6-1191-4965-90DB-5E8EC2007BCB}.DebugGame|Win64.Build.0 = DebugGame_Game|x64
-		{81022FA6-1191-4965-90DB-5E8EC2007BCB}.Development Editor|Android.ActiveCfg = Development_Editor|Tegra-Android
-		{81022FA6-1191-4965-90DB-5E8EC2007BCB}.Development Editor|Android.Build.0 = Development_Editor|Tegra-Android
+		{81022FA6-1191-4965-90DB-5E8EC2007BCB}.Development Editor|Android.ActiveCfg = Development_Game|Win32
 		{81022FA6-1191-4965-90DB-5E8EC2007BCB}.Development Editor|Win32.ActiveCfg = Development_Editor|Win32
 		{81022FA6-1191-4965-90DB-5E8EC2007BCB}.Development Editor|Win32.Build.0 = Development_Editor|Win32
 		{81022FA6-1191-4965-90DB-5E8EC2007BCB}.Development Editor|Win64.ActiveCfg = Development_Editor|x64
 		{81022FA6-1191-4965-90DB-5E8EC2007BCB}.Development Editor|Win64.Build.0 = Development_Editor|x64
-		{81022FA6-1191-4965-90DB-5E8EC2007BCB}.Development|Android.ActiveCfg = Development_Game|Tegra-Android
-		{81022FA6-1191-4965-90DB-5E8EC2007BCB}.Development|Android.Build.0 = Development_Game|Tegra-Android
+		{81022FA6-1191-4965-90DB-5E8EC2007BCB}.Development|Android.ActiveCfg = Development_Game|Win32
 		{81022FA6-1191-4965-90DB-5E8EC2007BCB}.Development|Win32.ActiveCfg = Development_Game|Win32
 		{81022FA6-1191-4965-90DB-5E8EC2007BCB}.Development|Win32.Build.0 = Development_Game|Win32
 		{81022FA6-1191-4965-90DB-5E8EC2007BCB}.Development|Win64.ActiveCfg = Development_Game|x64
 		{81022FA6-1191-4965-90DB-5E8EC2007BCB}.Development|Win64.Build.0 = Development_Game|x64
-		{81022FA6-1191-4965-90DB-5E8EC2007BCB}.Shipping|Android.ActiveCfg = Shipping_Game|Tegra-Android
-		{81022FA6-1191-4965-90DB-5E8EC2007BCB}.Shipping|Android.Build.0 = Shipping_Game|Tegra-Android
+		{81022FA6-1191-4965-90DB-5E8EC2007BCB}.Shipping|Android.ActiveCfg = Shipping_Game|Win32
 		{81022FA6-1191-4965-90DB-5E8EC2007BCB}.Shipping|Win32.ActiveCfg = Shipping_Game|Win32
 		{81022FA6-1191-4965-90DB-5E8EC2007BCB}.Shipping|Win32.Build.0 = Shipping_Game|Win32
 		{81022FA6-1191-4965-90DB-5E8EC2007BCB}.Shipping|Win64.ActiveCfg = Shipping_Game|x64
